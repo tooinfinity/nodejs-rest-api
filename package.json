@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-rest-api",
+  "version": "1.0.0",
+  "description": "- Basic knowledge of Javascript\r   - Basic knowledge of Node.js\r   - Basic knowledge of Express (framework of Node.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TouwfiQ Meghlaoui",
+  "license": "ISC"
+}
